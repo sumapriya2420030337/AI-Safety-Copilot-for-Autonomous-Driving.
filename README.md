@@ -37,9 +37,9 @@ This project evaluates deep learning perception and prediction algorithms by com
 
 ## 🔬 Research & References
 
-* **CARLA: An Open Urban Driving Simulator** — [arXiv Paper Link](https://arxiv.org/abs/1711.03938)
-* **BDD100K: A Diverse Driving Dataset for Heterogeneous Multitask Learning** — [arXiv Paper Link](https://arxiv.org/abs/1805.04687)
-  
+* **Risk Assessment in Autonomous Driving: A Comprehensive Survey of Risk Sources, Methodologies, and System Architectures — [Springer Article Link](https://link.springer.com/article/10.1007/s43684-025-00112-1)
+* **Promoting CAV Deployment by Enhancing the Perception Phase of Autonomous Driving Using Explainable AI — [Purdue e-Pubs Download Link](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1041&context=ccat)
+* **
 
 ---
 
